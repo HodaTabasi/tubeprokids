@@ -346,6 +346,7 @@ class _MyVideoScreensState extends State<MyVideoScreens> {
                   AppLocalizations.of(context)!.yes,
                   style: TextStyle(color: Colors.red),
                 ),
+
                 onPressed: () async {
                   Navigator.push(
                       context,
