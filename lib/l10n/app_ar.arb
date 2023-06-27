@@ -1,0 +1,121 @@
+{
+  "login": "تسجيل دخول",
+  "register": "تسجيل جديد",
+  "password":"كلمة المرور",
+  "re_password":"اعادة كتابة كلمة المرور",
+  "email":"البريد الالكتروني",
+  "phone":"رقم الهاتف",
+  "en": "الانجليزية",
+  "ar": "العربية",
+  "forget_pass_hl":"نسيت كلمة المرور",
+  "otp":"رمز التحقق",
+  "notee":"سيتم تجديد الإشتراك بشكل تلقائي ، يمكنك إيقاف التجديد التلقائي قبل 24 ساعة من تاريخ إشتراكك الحالي و  سيتم تجديد اشتراكك تلقائيا خلال 24 ساعة قبل انتهاء الفترة الحالية. يمكنك التحكم باشتراكك او الغاء التجديد التلقائي من خلال اعدادات حسابك في المتجر.",
+   "ensure_that_correct": "تاكد ان البيانات المدخله صحيحة",
+
+  "p1": "بالضغط علي تسجيل دخول فانت توافق علي",
+  "p2": "الشروط والأحكام وسياسة الخصوصية",
+  "re_transmitter":"اعادة الارسال",
+   "enter_code":" أدخل الكود",
+   "enter_the_verification_code_that_we_sent_to_your_mobile":" قم بادخال رمز التحقق الذي ارسلناه الي جوالك",
+   "next":"التالي",
+
+  "full_name": "ادخل اسمك كاملا",
+
+  "cuntory": "الدولة",
+  "falied": "لم تتم العملية بنجاح",
+  "enter_copon": "ادخل الكوبون",
+  "apply": "تطبيق",
+  "enter_cpon_number": "ادخل كوبون الخصم",
+  "select_pakage": "حدد البافقة المناسبة",
+  "no_avilable_pakage": "لا يوجد باقات متاحة لهذا الكوبون",
+  "countunie": "استمرار",
+  "enter_search_tearm": "ادخل قيود البحث",
+  "apply_copon": "ادخل كوبون خصم",
+  "close": "اغلاق",
+
+  "home": "الرئيسية",
+  "library": "المكتبة",
+  "favorite": "المفضلة",
+  "profile": "الملف الشخصي",
+   "edit_video": "تعديل الفيديو",
+   "edit": "تعديل",
+   "enter_the_required_data": "ادخل البيانات المطلوبة",
+"change_password": "تغيير كلمة المرور",
+  "you_can_go_to": "لإضافة فيديو جديد اضغط على ",
+  "add_videos_page": "➕   ",
+  "and_you_add_videos_here":"لاضافة فيديو نوجه الي المكتبة ",
+  "added_date": "تاريخ الاضافة",
+  "send": "ارسال",
+  "subscription": "اشتراك",
+  "play_list": "قوائم التشغيل",
+   "play_list_name": "اسم القائمة",
+   "play_play_list": "تشغيل القائمة",
+   "new_list": "قائمة جديدة",
+   "save": "حفظ",
+   "save_play_list": "اضف الى قائمة التشغيل",
+    "lang": "اللغة",
+    "policy": "سياسة الخصوصية",
+
+
+  "video": "فيديو",
+  "videos_selected_for_you": "فيديوهات مختارة لك",
+  "my_video": "فيديوهاتي",
+  "no_video": "لا يوجد",
+
+  "video_description": "وصف الفيديو",
+
+  "watch":"مشاهدة",
+  "create_new_list":"انشاء قائمة جديدة",
+  "create":"انشاء",
+  "login_with":"تسجيل دخول باستخدام",
+  "Start_typing_to_search":"ابدا بكتابة كلمة البحث ",
+   "search":"بحث ",
+   "no_m":"انتهى العدد المجاني من قوائم التشغيل ",
+   "there_are_no_videos_in_your_library_at_the_moment":"لا توجد مقاطع فيديو في مكتبتك في الوقت الحالي",
+   "you_have_not_added_any_other_videos_to_your_favourites":"لم تقم بإضافة أي مقاطع فيديو أخرى إلى المفضلة",
+
+     "you_can_go_to_videos_selected_for_you_and_add_videos":"يمكنك الانتقال إلى مقاطع الفيديو المحددة لك وإضافة مقاطع الفيديو",
+     "video_link":"رابط الفيديو",
+     "video_name":"اسم الفيديو",
+     "video_description":"وصف الفيديو",
+       "add_video":"اضافة فيديو",
+  "have_exceeded_the_maximum_number_of_videos_for_the_free_account": "لقد تجاوزت الحد الاعلى من عدد الفيديوهات للحساب المجاني ",
+        "setting":"الاعدادات",
+        "logout":"تسجيل الخروج",
+
+        "add_copun":"انشاء كوبون",
+
+        "delete_account":"حذف الحساب",
+        "cannot_be_empty" : "هذا الحقل مطلوب",
+        "enter_valid_email" : "ادخل بريد إلكتروني صالح",
+        "enter_storng_password" : "أدخل كلمة مرور قوية",
+        "enter_valid_name" : "أدخل اسم صالح",
+        "enter_valid_first_name" : "الرجاء ادخال اسم اول صالح",
+        "enter_valid_last_name" : "الرجاء ادخال اسم اخير صالح",
+        "enter_country" : "ادخل دولتك",
+        "my_coupon" : "كوبوني",
+        "users" : "مستخدم",
+        "view" : "مشاهدة",
+        "privcy_policey" : "سياسة الخصوصية | شروط الاستخدام",
+        "are_you_sure_delete" : "هل انت متأكد أنك تريد حذف الفيديو؟",
+        "are_you_sure_delete_playlist" : "هل أنت متأكد أنك تريد حذف قائمة التشغيل؟",
+        "delete" : "حذف",
+        "back" : "رجوع",
+        "terms_use" : "شروط الاستخدام",
+        "cancel_subscribtion" : "يمكنك الغاء الاشتراك في أي وقت",
+        "phone_number" : "رقم الهاتف (اختياري)",
+        "titlew" : "تاكيد العمر",
+        "mssage1" : "هل عمرك فوق ١٨ عاما ؟",
+        "yes" : "نعم",
+        "no1" : "لا"
+
+
+
+
+
+
+
+
+
+
+}

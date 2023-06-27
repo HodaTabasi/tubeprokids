@@ -1,0 +1,152 @@
+{
+  "project_info": {
+    "project_number": "731816277667",
+    "project_id": "asprojectapp",
+    "storage_bucket": "asprojectapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731816277667:android:bffd7763166f57e2e37116",
+        "android_client_info": {
+          "package_name": "com.admin.app.tube.apptubeyadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731816277667-ur75ju31qqbeptjksl4v10j8drp6u7g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZRj6xN1gIOKUA7mMXeqRRkx4Q4tipK_I"
+        },
+        {
+          "current_key": "AIzaSyD_lEV5jot_Pz5KKwawOJiWgjIg8HUCaeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731816277667-ur75ju31qqbeptjksl4v10j8drp6u7g4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "731816277667-2h89vsl9ugi7vs8dol87v83bdq4lrl40.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.admin.app.tube.apptubeyadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731816277667:android:4712e6f516b8e1f9e37116",
+        "android_client_info": {
+          "package_name": "com.app.MyTubey.apptubey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731816277667-4cim2t6dshp8gjmda61b7rj26a2lhqr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.MyTubey.apptubey",
+            "certificate_hash": "2a759afc9ca8b57f52474c78858db795dfba0e27"
+          }
+        },
+        {
+          "client_id": "731816277667-l9totumpnbe26uf695a9m1696oamib39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.MyTubey.apptubey",
+            "certificate_hash": "d9e2e204bfe9f25a23cf8e42769af4aa0420c582"
+          }
+        },
+        {
+          "client_id": "731816277667-q3j5crtvla57oosvkid489vra0vbvp7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.MyTubey.apptubey",
+            "certificate_hash": "6274789fda436d3607036ea8db5094f7a0efa989"
+          }
+        },
+        {
+          "client_id": "731816277667-ur75ju31qqbeptjksl4v10j8drp6u7g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZRj6xN1gIOKUA7mMXeqRRkx4Q4tipK_I"
+        },
+        {
+          "current_key": "AIzaSyD_lEV5jot_Pz5KKwawOJiWgjIg8HUCaeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731816277667-ur75ju31qqbeptjksl4v10j8drp6u7g4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "731816277667-2h89vsl9ugi7vs8dol87v83bdq4lrl40.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.admin.app.tube.apptubeyadmin"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6698036413009346~7717758906"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731816277667:android:365533419e51d2cbe37116",
+        "android_client_info": {
+          "package_name": "com.example.qatar_data_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731816277667-ur75ju31qqbeptjksl4v10j8drp6u7g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZRj6xN1gIOKUA7mMXeqRRkx4Q4tipK_I"
+        },
+        {
+          "current_key": "AIzaSyD_lEV5jot_Pz5KKwawOJiWgjIg8HUCaeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731816277667-ur75ju31qqbeptjksl4v10j8drp6u7g4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "731816277667-2h89vsl9ugi7vs8dol87v83bdq4lrl40.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.admin.app.tube.apptubeyadmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
